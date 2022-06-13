@@ -3,5 +3,5 @@ export default function FirstPost() {
 }
 
 export default function getSetList() {
-
+    return `<ul><li>SetList</li></ul>`;
 }
